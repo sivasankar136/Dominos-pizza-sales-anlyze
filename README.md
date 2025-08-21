@@ -1,6 +1,6 @@
 # Dominos-pizza-sales-anlyze
 Domino’s Pizza Sales Analysis - Power BI Project
-📊 Project Overview
+📊 Project Overview.
 
 This project provides an interactive Power BI dashboard to analyze Domino’s Pizza sales performance. The dashboard helps visualize key insights about revenue, customer preferences, product sales, and regional performance to support better business decisions.
 
